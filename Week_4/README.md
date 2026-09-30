@@ -1,7 +1,7 @@
-# Bài toán Tháp Hà Nội theo cách đệ quy
+# Bài toán Tháp Hà Nội 
 
 ## A. Tên bài tập
-**Cài đặt bài toán **Tháp Hà Nội (Tower of Hanoi)** theo cách đệ quy**
+**Cài đặt bài toán **Tháp Hà Nội (Tower of Hanoi)** theo cách đệ quy và khử đệ quy**
 
 ---
 
