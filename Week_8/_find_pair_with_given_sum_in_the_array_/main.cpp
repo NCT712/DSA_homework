@@ -1,11 +1,12 @@
 #include <iostream>
 #include <algorithm>
+#include "merge_sort.h"
 
 using namespace std;
 using ll = long long;
 
 void findPair(int a[], int n, ll target){
-    sort(a, a + n);
+    MergeSort(a, 0, n - 1);
     int left = 0;
     int right = n - 1;
 
